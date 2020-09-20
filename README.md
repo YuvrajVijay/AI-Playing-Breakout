@@ -11,4 +11,4 @@ An attempt at recreating DeepMind's implementation of Deep Q Learning on Atari B
 ## Example of a trained agent playing Breakout
 
 
-![Example of one of the games played by the agent](Breakout/episode.gif)
+![Example of one of the games played by the agent](episode.gif)
