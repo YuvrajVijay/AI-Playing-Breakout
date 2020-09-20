@@ -13,3 +13,5 @@ Used [A3C model](https://medium.com/emergent-future/simple-reinforcement-learnin
 
 
 ![Example of one of the games played by the agent](episode.gif)
+
+click [here](test) for more test videos.
